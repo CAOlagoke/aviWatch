@@ -1,0 +1,1 @@
+Should contain configuration files e.g database & passport

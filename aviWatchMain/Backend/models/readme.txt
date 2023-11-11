@@ -1,0 +1,1 @@
+Should contain user sequelize model, movie model, admin model
