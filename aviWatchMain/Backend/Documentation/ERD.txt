@@ -1,0 +1,7 @@
+[=== User ===]				Store user bookmarks in a mongoDB
+id(int) 	P_K			Store user's search history in a mongoDB
+username(varchar 255)
+email(varchar 255)
+password(varchar 255)
+profileImage(varchar 255)
+isAdmin(boolean)

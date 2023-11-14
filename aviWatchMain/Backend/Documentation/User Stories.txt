@@ -1,0 +1,14 @@
+As an end-user I would like to be able to sign-up
+As an end-user I would like to be able to log-in
+As an end-user I would like to be able to change my user details
+As an end-user I would like to be able to rate a show
+As an end-user I would like to be able to filter by show name
+As an end-user I would like to be able to filter shows based on type, genre, year, Age-rating, media quality
+As an end0user I would like to be able to sort by trending, most watched, most bookmarked, recently added, name A-Z
+As an end-user I would like to be able to bookmark shows(plan to watch,completed)
+As an end-user I would like to be able to favourite shows
+As an end-user I would like to recieve notifications when a new episode of a show in my bookmark is available
+As an end-user I would like to be able to change the language option
+
+As an admin I would like to be able to delete a user
+As an admin I would like to be able to restrict certain Age-ratings
